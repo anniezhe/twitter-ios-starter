@@ -2,7 +2,7 @@
 
 **Baby Tweets** is a basic twitter app to read your tweets.
 
-Time spent: **6** hours spent in total
+Time spent: **9** hours spent in total
 
 ## User Stories
 
