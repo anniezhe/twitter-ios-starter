@@ -16,7 +16,7 @@
 		DE796B6827011F3A006A60A0 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = DE796B6727011F3A006A60A0 /* README.md */; };
 		DE796B6A27013EC1006A60A0 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE796B6927013EC1006A60A0 /* LoginViewController.swift */; };
 		DE796B70270160EE006A60A0 /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE796B6F270160EE006A60A0 /* HomeTableViewController.swift */; };
-		DE796B7227016FD6006A60A0 /* Annie_He_BabyTweets1.gif in Resources */ = {isa = PBXBuildFile; fileRef = DE796B7127016FD6006A60A0 /* Annie_He_BabyTweets1.gif */; };
+		DE796B742701713D006A60A0 /* Annie_He_BabyTweets1.gif in Resources */ = {isa = PBXBuildFile; fileRef = DE796B732701713D006A60A0 /* Annie_He_BabyTweets1.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,7 +33,7 @@
 		DE796B6727011F3A006A60A0 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		DE796B6927013EC1006A60A0 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		DE796B6F270160EE006A60A0 /* HomeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewController.swift; sourceTree = "<group>"; };
-		DE796B7127016FD6006A60A0 /* Annie_He_BabyTweets1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = Annie_He_BabyTweets1.gif; path = ../../../Users/anniehe/Downloads/Annie_He_BabyTweets1.gif; sourceTree = "<group>"; };
+		DE796B732701713D006A60A0 /* Annie_He_BabyTweets1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Annie_He_BabyTweets1.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +60,7 @@
 		6EBCF51921DF07FC00451C03 = {
 			isa = PBXGroup;
 			children = (
-				DE796B7127016FD6006A60A0 /* Annie_He_BabyTweets1.gif */,
+				DE796B732701713D006A60A0 /* Annie_He_BabyTweets1.gif */,
 				DE796B6727011F3A006A60A0 /* README.md */,
 				6EBCF52421DF07FC00451C03 /* Twitter */,
 				6EBCF52321DF07FC00451C03 /* Products */,
@@ -162,7 +162,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6EBCF54E21E71F9400451C03 /* Launch Screen.storyboard in Resources */,
-				DE796B7227016FD6006A60A0 /* Annie_He_BabyTweets1.gif in Resources */,
+				DE796B742701713D006A60A0 /* Annie_He_BabyTweets1.gif in Resources */,
 				37D29B8621F90E3400984A88 /* Assets.xcassets in Resources */,
 				DE796B6827011F3A006A60A0 /* README.md in Resources */,
 				6EBCF52B21DF07FC00451C03 /* Main.storyboard in Resources */,
