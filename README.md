@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Annie_He_BabyTweets1.gif' title='Video Walkthrough' alt='Video Walkthrough' width='500' height='600/>
+<img src='Annie_He_BabyTweets1.gif' title='Video Walkthrough' alt='Video Walkthrough' width='500' height='800'/>
 
-<img src='Annie_He_BabyTweets2.gif' title='Video Walkthrough 2' alt='Video Walkthrough 2' width='500' height='600'/>
+<img src='Annie_He_BabyTweets2.gif' title='Video Walkthrough 2' alt='Video Walkthrough 2' width='500' height='800'/>
 
