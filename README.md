@@ -27,3 +27,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='Annie_He_BabyTweets2.gif' title='Video Walkthrough 2' alt='Video Walkthrough 2' width='300' height='600'/>
 
+## Disclaimer
+
+This is NOT an official Twitter! I am copying Twitter to obtain a general knowledge in the mobile space and to practice coding.
+
